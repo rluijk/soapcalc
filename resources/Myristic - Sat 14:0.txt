@@ -1,1 +1,150 @@
-<select name="selOilList" id="selOilList" size="27" style="width:88%;border:2px solid #60BD51;"><option title="Myristic Acid">99&nbsp;% &nbsp;&nbsp;&nbsp;Myristic Acid</option><option title="Nutmeg Butter">83&nbsp;% &nbsp;&nbsp;&nbsp;Nutmeg Butter</option><option title="Murumuru Butter">26&nbsp;% &nbsp;&nbsp;&nbsp;Murumuru Butter</option><option title="Tucuma Seed Butter">23&nbsp;% &nbsp;&nbsp;&nbsp;Tucuma Seed Butter</option><option title="Babassu Oil">20&nbsp;% &nbsp;&nbsp;&nbsp;Babassu Oil</option><option title="Coconut Oil, 92 deg">19&nbsp;% &nbsp;&nbsp;&nbsp;Coconut Oil, 92 deg</option><option title="Coconut Oil, 76 deg">19&nbsp;% &nbsp;&nbsp;&nbsp;Coconut Oil, 76 deg</option><option title="Aloe Butter">18&nbsp;% &nbsp;&nbsp;&nbsp;Aloe Butter</option><option title="Palm Kernel Oil Flakes, hydrogenated">17&nbsp;% &nbsp;&nbsp;&nbsp;Palm Kernel Oil Flakes, hydrogenated</option><option title="Monoi de Tahiti  Oil">16&nbsp;% &nbsp;&nbsp;&nbsp;Monoi de Tahiti  Oil</option><option title="Palm Kernel Oil">16&nbsp;% &nbsp;&nbsp;&nbsp;Palm Kernel Oil</option><option title="Cohune Oil">13&nbsp;% &nbsp;&nbsp;&nbsp;Cohune Oil</option><option title="Saw Palmetto Oil">13&nbsp;% &nbsp;&nbsp;&nbsp;Saw Palmetto Oil</option><option title="Ghee, any bovine">11&nbsp;% &nbsp;&nbsp;&nbsp;Ghee, any bovine</option><option title="Milk Fat, any bovine">11&nbsp;% &nbsp;&nbsp;&nbsp;Milk Fat, any bovine</option><option title="Tallow Goat">11&nbsp;% &nbsp;&nbsp;&nbsp;Tallow Goat</option><option title="Saw Palmetto Extract">11&nbsp;% &nbsp;&nbsp;&nbsp;Saw Palmetto Extract</option><option title="Tallow Sheep">10&nbsp;% &nbsp;&nbsp;&nbsp;Tallow Sheep</option><option title="SoapQuick, conventional">&nbsp;&nbsp;6&nbsp;% &nbsp;&nbsp;&nbsp;SoapQuick, conventional</option><option title="Tallow Beef">&nbsp;&nbsp;6&nbsp;% &nbsp;&nbsp;&nbsp;Tallow Beef</option><option title="Salmon Oil">&nbsp;&nbsp;5&nbsp;% &nbsp;&nbsp;&nbsp;Salmon Oil</option><option title="SoapQuick, organic">&nbsp;&nbsp;5&nbsp;% &nbsp;&nbsp;&nbsp;SoapQuick, organic</option><option title="Walmart GV Shortening, tallow, palm">&nbsp;&nbsp;4&nbsp;% &nbsp;&nbsp;&nbsp;Walmart GV Shortening, tallow, palm</option><option title="Cod Liver Oil">&nbsp;&nbsp;4&nbsp;% &nbsp;&nbsp;&nbsp;Cod Liver Oil</option><option title="Rabbit Fat">&nbsp;&nbsp;3&nbsp;% &nbsp;&nbsp;&nbsp;Rabbit Fat</option><option title="Horse Oil">&nbsp;&nbsp;3&nbsp;% &nbsp;&nbsp;&nbsp;Horse Oil</option><option title="Palm Stearin">&nbsp;&nbsp;2&nbsp;% &nbsp;&nbsp;&nbsp;Palm Stearin</option><option title="Neem Seed Oil">&nbsp;&nbsp;2&nbsp;% &nbsp;&nbsp;&nbsp;Neem Seed Oil</option><option title="Tallow Bear">&nbsp;&nbsp;2&nbsp;% &nbsp;&nbsp;&nbsp;Tallow Bear</option><option title="Laurel Fruit Oil">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Laurel Fruit Oil</option><option title="Baobab Oil">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Baobab Oil</option><option title="Argan Oil">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Argan Oil</option><option title="Almond Butter">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Almond Butter</option><option title="Chicken Fat">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Chicken Fat</option><option title="Tallow Deer">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Tallow Deer</option><option title="Japan Wax">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Japan Wax</option><option title="Lauric Acid">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Lauric Acid</option><option title="Mafura Butter, Trichilia emetica&nbsp;">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Mafura Butter, Trichilia emetica&nbsp;</option><option title="Rice Bran Oil, refined">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Rice Bran Oil, refined</option><option title="Palmolein">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Palmolein</option><option title="Palm Oil">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Palm Oil</option><option title="Duck Fat, flesh and skin">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Duck Fat, flesh and skin</option><option title="Lard, Pig Tallow (Manteca)">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Lard, Pig Tallow (Manteca)</option><option title="Red Palm Butter">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Red Palm Butter</option><option title="Macadamia Nut Butter">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Macadamia Nut Butter</option><option title="Coconut Oil, fractionated">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Coconut Oil, fractionated</option><option title="Ostrich Oil">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Ostrich Oil</option><option title="Pracaxi (Pracachy) Seed Oil - hair conditioner">&nbsp;&nbsp;1&nbsp;% &nbsp;&nbsp;&nbsp;Pracaxi (Pracachy) Seed Oil - hair conditioner</option><option title="Avocado Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Avocado Oil</option><option title="Ucuuba Butter">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Ucuuba Butter</option><option title="Soybean, fully hydrogenated (soy wax)">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Soybean, fully hydrogenated (soy wax)</option><option title="Cranberry Seed Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Cranberry Seed Oil</option><option title="Marula Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Marula Oil</option><option title="Cherry Kern2 Oil, p. cerasus">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Cherry Kern2 Oil, p. cerasus</option><option title="Watermelon Seed Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Watermelon Seed Oil</option><option title="Black Current Seed Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Black Current Seed Oil</option><option title="Pecan Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Pecan Oil</option><option title="Broccoli Seed Oil, Brassica Oleracea">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Broccoli Seed Oil, Brassica Oleracea</option><option title="Almond Oil, sweet">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Almond Oil, sweet</option><option title="Sacha Inchi, Plukenetia volubilis">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Sacha Inchi, Plukenetia volubilis</option><option title="Apricot Kernal Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Apricot Kernal Oil</option><option title="Raspberry Seed Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Raspberry Seed Oil</option><option title="Beeswax">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Beeswax</option><option title="Black Cumin Seed Oil, nigella sativa">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Black Cumin Seed Oil, nigella sativa</option><option title="Canola Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Canola Oil</option><option title="Castor Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Castor Oil</option><option title="Cocoa Butter">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Cocoa Butter</option><option title="Oleic Acid">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Oleic Acid</option><option title="Corn Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Corn Oil</option><option title="Cottonseed Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Cottonseed Oil</option><option title="Yangu, cape chestnut">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Yangu, cape chestnut</option><option title="Papaya seed oil, Carica papaya">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Papaya seed oil, Carica papaya</option><option title="Carrot Seed Oil, cold pressed">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Carrot Seed Oil, cold pressed</option><option title="Moringa Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Moringa Oil</option><option title="Candelilla Wax">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Candelilla Wax</option><option title="Jatropha Oil, soapnut seed oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Jatropha Oil, soapnut seed oil</option><option title="Plum Kernel Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Plum Kernel Oil</option><option title="Brazil Nut Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Brazil Nut Oil</option><option title="Sea Buckthorn Oil, seed and berry">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Sea Buckthorn Oil, seed and berry</option><option title="Sea Buckthorn Oil, seed">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Sea Buckthorn Oil, seed</option><option title="Oat Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Oat Oil</option><option title="Cupuacu Butter">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Cupuacu Butter</option><option title="Loofa Seed Oil, Luffa cylinderica">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Loofa Seed Oil, Luffa cylinderica</option><option title="Milk Thistle Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Milk Thistle Oil</option><option title="Neatsfoot Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Neatsfoot Oil</option><option title="Hazelnut Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Hazelnut Oil</option><option title="Buriti Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Buriti Oil</option><option title="Crisco, old">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Crisco, old</option><option title="Crisco, new w/palm">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Crisco, new w/palm</option><option title="Coffee Bean Oil, green">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Coffee Bean Oil, green</option><option title="Mustard Oil, kachi ghani">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Mustard Oil, kachi ghani</option><option title="Pataua (Patawa) Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Pataua (Patawa) Oil</option><option title="Pomegranate Seed Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Pomegranate Seed Oil</option><option title="Abyssinian Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Abyssinian Oil</option><option title="Zapote seed oil, (Aceite de Sapuyul or Mamey)">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Zapote seed oil, (Aceite de Sapuyul or Mamey)</option><option title="Sal Butter">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Sal Butter</option><option title="Goose Fat">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Goose Fat</option><option title="Pine Tar, lye calc only no FA">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Pine Tar, lye calc only no FA</option><option title="Walnut Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Walnut Oil</option><option title="Wheat Germ Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Wheat Germ Oil</option><option title="Karanja Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Karanja Oil</option><option title="Olive Oil  pomace">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Olive Oil  pomace</option><option title="Avocado butter">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Avocado butter</option><option title="Canola Oil, high oleic">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Canola Oil, high oleic</option><option title="Tamanu Oil, kamani">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Tamanu Oil, kamani</option><option title="Camelina Seed Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Camelina Seed Oil</option><option title="Rosehip Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Rosehip Oil</option><option title="Stearic Acid">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Stearic Acid</option><option title="Mowrah Butter">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Mowrah Butter</option><option title="Soybean Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Soybean Oil</option><option title="Borage Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Borage Oil</option><option title="Mink Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Mink Oil</option><option title="Pumpkin Seed Oil virgin">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Pumpkin Seed Oil virgin</option><option title="Peach Kernel Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Peach Kernel Oil</option><option title="Sunflower Oil, high oleic">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Sunflower Oil, high oleic</option><option title="Soybean, 27.5% hydrogenated">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Soybean, 27.5% hydrogenated</option><option title="Poppy Seed Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Poppy Seed Oil</option><option title="Coffee Bean Oil, roasted">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Coffee Bean Oil, roasted</option><option title="Perilla Seed Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Perilla Seed Oil</option><option title="Camellia Oil, Tea Seed">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Camellia Oil, Tea Seed</option><option title="Palmitic Acid">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Palmitic Acid</option><option title="Safflower Oil, high oleic">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Safflower Oil, high oleic</option><option title="Illipe Butter">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Illipe Butter</option><option title="Mango Seed Butter">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Mango Seed Butter</option><option title="Evening Primrose Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Evening Primrose Oil</option><option title="Flax Oil, linseed">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Flax Oil, linseed</option><option title="Olive Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Olive Oil</option><option title="Grapeseed Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Grapeseed Oil</option><option title="Cherry Kern1 Oil, p. avium">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Cherry Kern1 Oil, p. avium</option><option title="Hemp Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Hemp Oil</option><option title="Jojoba Oil (a Liquid Wax Ester)">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Jojoba Oil (a Liquid Wax Ester)</option><option title="Shea Oil, fractionated">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Shea Oil, fractionated</option><option title="Kokum Butter">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Kokum Butter</option><option title="Kukui nut Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Kukui nut Oil</option><option title="Lanolin liquid Wax">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Lanolin liquid Wax</option><option title="Sunflower Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Sunflower Oil</option><option title="Macadamia Nut Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Macadamia Nut Oil</option><option title="Emu Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Emu Oil</option><option title="Mango Seed Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Mango Seed Oil</option><option title="Meadowfoam Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Meadowfoam Oil</option><option title="Andiroba Oil,karaba,crabwood">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Andiroba Oil,karaba,crabwood</option><option title="Acorn Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Acorn Oil</option><option title="Kpangnan Butter">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Kpangnan Butter</option><option title="Passion Fruit Seed Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Passion Fruit Seed Oil</option><option title="Peanut Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Peanut Oil</option><option title="Pistachio Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Pistachio Oil</option><option title="Rapeseed Oil, unrefined canola">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Rapeseed Oil, unrefined canola</option><option title="Safflower Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Safflower Oil</option><option title="Sesame Oil">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Sesame Oil</option><option title="Shea Butter">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Shea Butter</option><option title="Linseed Oil, flax">&nbsp;&nbsp;0&nbsp;% &nbsp;&nbsp;&nbsp;Linseed Oil, flax</option></select>
+ 99;%  Myristic Acid  
+ 83;%  Nutmeg Butter  
+ 26;%  Murumuru Butter  
+ 23;%  Tucuma Seed Butter  
+ 20;%  Babassu Oil  
+ 19;%  Coconut Oil, 92 deg  
+ 19;%  Coconut Oil, 76 deg  
+ 18;%  Aloe Butter  
+ 17;%  Palm Kernel Oil Flakes, hydrogenated  
+ 16;%  Monoi de Tahiti  Oil  
+ 16;%  Palm Kernel Oil  
+ 13;%  Cohune Oil  
+ 13;%  Saw Palmetto Oil  
+ 11;%  Ghee, any bovine  
+ 11;%  Milk Fat, any bovine  
+ 11;%  Tallow Goat  
+ 11;%  Saw Palmetto Extract  
+ 10;%  Tallow Sheep   
+ 6;%  SoapQuick, conventional   
+ 6;%  Tallow Beef   
+ 5;%  Salmon Oil   
+ 5;%  SoapQuick, organic   
+ 4;%  Walmart GV Shortening, tallow, palm   
+ 4;%  Cod Liver Oil   
+ 3;%  Rabbit Fat   
+ 3;%  Horse Oil   
+ 2;%  Palm Stearin   
+ 2;%  Neem Seed Oil   
+ 2;%  Tallow Bear   
+ 1;%  Laurel Fruit Oil   
+ 1;%  Baobab Oil   
+ 1;%  Argan Oil   
+ 1;%  Almond Butter   
+ 1;%  Chicken Fat   
+ 1;%  Tallow Deer   
+ 1;%  Japan Wax   
+ 1;%  Lauric Acid   
+ 1;%  Mafura Butter, Trichilia emetica;   
+ 1;%  Rice Bran Oil, refined   
+ 1;%  Palmolein   
+ 1;%  Palm Oil   
+ 1;%  Duck Fat, flesh and skin   
+ 1;%  Lard, Pig Tallow (Manteca)   
+ 1;%  Red Palm Butter   
+ 1;%  Macadamia Nut Butter   
+ 1;%  Coconut Oil, fractionated   
+ 1;%  Ostrich Oil   
+ 1;%  Pracaxi (Pracachy) Seed Oil  hair conditioner   
+ 0;%  Avocado Oil   
+ 0;%  Ucuuba Butter   
+ 0;%  Soybean, fully hydrogenated (soy wax)   
+ 0;%  Cranberry Seed Oil   
+ 0;%  Marula Oil   
+ 0;%  Cherry Kern2 Oil, p. cerasus   
+ 0;%  Watermelon Seed Oil   
+ 0;%  Black Current Seed Oil   
+ 0;%  Pecan Oil   
+ 0;%  Broccoli Seed Oil, Brassica Oleracea   
+ 0;%  Almond Oil, sweet   
+ 0;%  Sacha Inchi, Plukenetia volubilis   
+ 0;%  Apricot Kernal Oil   
+ 0;%  Raspberry Seed Oil   
+ 0;%  Beeswax   
+ 0;%  Black Cumin Seed Oil, nigella sativa   
+ 0;%  Canola Oil   
+ 0;%  Castor Oil   
+ 0;%  Cocoa Butter   
+ 0;%  Oleic Acid   
+ 0;%  Corn Oil   
+ 0;%  Cottonseed Oil   
+ 0;%  Yangu, cape chestnut   
+ 0;%  Papaya seed oil, Carica papaya   
+ 0;%  Carrot Seed Oil, cold pressed   
+ 0;%  Moringa Oil   
+ 0;%  Candelilla Wax   
+ 0;%  Jatropha Oil, soapnut seed oil   
+ 0;%  Plum Kernel Oil   
+ 0;%  Brazil Nut Oil   
+ 0;%  Sea Buckthorn Oil, seed and berry   
+ 0;%  Sea Buckthorn Oil, seed   
+ 0;%  Oat Oil   
+ 0;%  Cupuacu Butter   
+ 0;%  Loofa Seed Oil, Luffa cylinderica   
+ 0;%  Milk Thistle Oil   
+ 0;%  Neatsfoot Oil   
+ 0;%  Hazelnut Oil   %  Buriti Oil   
+ 0;%  Crisco, old   
+ 0;%  Crisco, new w/palm   
+ 0;%  Coffee Bean Oil, green   
+ 0;%  Mustard Oil, kachi ghani   
+ 0;%  Pataua (Patawa) Oil   
+ 0;%  Pomegranate Seed Oil   
+ 0;%  Abyssinian Oil   
+ 0;%  Zapote seed oil, (Aceite de Sapuyul or Mamey)   
+ 0;%  Sal Butter   
+ 0;%  Goose Fat   
+ 0;%  Pine Tar, lye calc only no FA   
+ 0;%  Walnut Oil   
+ 0;%  Wheat Germ Oil   
+ 0;%  Karanja Oil   
+ 0;%  Olive Oil  pomace   
+ 0;%  Avocado butter   
+ 0;%  Canola Oil, high oleic   
+ 0;%  Tamanu Oil, kamani   
+ 0;%  Camelina Seed Oil   
+ 0;%  Rosehip Oil   
+ 0;%  Stearic Acid  
+ 0;%  Mowrah Butter   
+ 0;%  Soybean Oil   
+ 0;%  Borage Oil   
+ 0;%  Mink Oil   
+ 0;%  Pumpkin Seed Oil virgin   
+ 0;%  Peach Kernel Oil   
+ 0;%  Sunflower Oil, high oleic    
+ 0;%  Soybean, 27.5% hydrogenated   
+ 0;%  Poppy Seed Oil   
+ 0;%  Coffee Bean Oil, roasted   
+ 0;%  Perilla Seed Oil   
+ 0;%  Camellia Oil, Tea Seed   
+ 0;%  Palmitic Acid   
+ 0;%  Safflower Oil, high oleic   
+ 0;%  Illipe Butter   
+ 0;%  Mango Seed Butter   
+ 0;%  Evening Primrose Oil   
+ 0;%  Flax Oil, linseed   
+ 0;%  Olive Oil   
+ 0;%  Grapeseed Oil   
+ 0;%  Cherry Kern1 Oil, p. avium   
+ 0;%  Hemp Oil   
+ 0;%  Jojoba Oil (a Liquid Wax Ester)   
+ 0;%  Shea Oil, fractionated   
+ 0;%  Kokum Butter   
+ 0;%  Kukui nut Oil   
+ 0;%  Lanolin liquid Wax   
+ 0;%  Sunflower Oil   
+ 0;%  Macadamia Nut Oil   
+ 0;%  Emu Oil   
+ 0;%  Mango Seed Oil   
+ 0;%  Meadowfoam Oil   
+ 0;%  Andiroba Oil,karaba,crabwood   
+ 0;%  Acorn Oil   
+ 0;%  Kpangnan Butter   
+ 0;%  Passion Fruit Seed Oil   
+ 0;%  Peanut Oil   
+ 0;%  Pistachio Oil   
+ 0;%  Rapeseed Oil, unrefined canola   
+ 0;%  Safflower Oil   
+ 0;%  Sesame Oil   
+ 0;%  Shea Butter   
+ 0;%  Linseed Oil, flax  
