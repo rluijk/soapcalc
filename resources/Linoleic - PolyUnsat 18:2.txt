@@ -1,1 +1,152 @@
- - -80;%  -Evening Primrose Oil - -75;%  -Safflower Oil - -70;%  -Passion Fruit Seed Oil - -70;%  -Sunflower Oil - -69;%  -Poppy Seed Oil - -68;%  -Grapeseed Oil - -64;%  -Milk Thistle Oil - -60;%  -Walnut Oil - -60;%  -Black Cumin Seed Oil, nigella sativa - -60;%  -Watermelon Seed Oil - -58;%  -Wheat Germ Oil - -57;%  -Hemp Oil - -55;%  -Raspberry Seed Oil - -52;%  -Cottonseed Oil - -52;%  -Crisco, old - -51;%  -Corn Oil - -50;%  -Soybean Oil - -50;%  -Pumpkin Seed Oil virgin - -47;%  -Loofa Seed Oil, Luffa cylinderica - -46;%  -Rosehip Oil - -46;%  -Black Current Seed Oil - -45;%  -Cherry Kern1 Oil, p. avium - -43;%  -Borage Oil - -43;%  -Sesame Oil - -42;%  -Kukui nut Oil - -40;%  -Crisco, new w/palm - -40;%  -Cherry Kern2 Oil, p. cerasus - -39;%  -Oat Oil - -39;%  -Pecan Oil - -39;%  -Coffee Bean Oil, green - -38;%  -Coffee Bean Oil, roasted - -38;%  -Tamanu Oil, kamani - -37;%  -Cranberry Seed Oil - -36;%  -Sea Buckthorn Oil, seed - -36;%  -Brazil Nut Oil - -35;%  -Sacha Inchi, Plukenetia volubilis - -34;%  -Rice Bran Oil, refined - -34;%  -Jatropha Oil, soapnut seed oil - -34;%  -Argan Oil - -30;%  -Yangu, cape chestnut - -28;%  -Baobab Oil - -27;%  -Apricot Kernal Oil - -26;%  -Peanut Oil - -26;%  -Laurel Fruit Oil - -25;%  -Peach Kernel Oil - -25;%  -Pistachio Oil - -23;%  -Plum Kernel Oil - -21;%  -Chicken Fat - -21;%  -Canola Oil - -20;%  -Horse Oil - -20;%  -Rabbit Fat - -19;%  -Camelina Seed Oil - -18;%  -Almond Oil, sweet - -17;%  -Ostrich Oil - -16;%  -Perilla Seed Oil - -16;%  -Almond Butter - -15;%  -Karanja Oil - -15;%  -Tallow Deer - -15;%  -Mowrah Butter - -15;%  -Safflower Oil, high oleic - -14;%  -Mustard Oil, kachi ghani - -13;%  -Linseed Oil, flax - -13;%  -Zapote seed oil, (Aceite de Sapuyul or Mamey) - -13;%  -Carrot Seed Oil, cold pressed - -13;%  -Flax Oil, linseed - -13;%  -Rapeseed Oil, unrefined canola - -13;%  -Duck Fat, flesh and skin - -12;%  -Neem Seed Oil - -12;%  -Avocado Oil - -12;%  -Olive Oil - -12;%  -Olive Oil  pomace - -12;%  -Canola Oil, high oleic - -11;%  -Abyssinian Oil - -11;%  -Broccoli Seed Oil, Brassica Oleracea - -11;%  -Shea Oil, fractionated - -11;%  -Palmolein - -11;%  -Mafura Butter, Trichilia emetica; - -10;%  -Goose Fat - -10;%  -Hazelnut Oil - -10;%  -SoapQuick, organic - -10;%  -Red Palm Butter - -10;%  -Sea Buckthorn Oil, seed and berry - -10;%  -Palm Oil - - -9;%  -Andiroba Oil,karaba,crabwood - - -9;%  -Tallow Bear - - -8;%  -Mango Seed Oil - - -8;%  -Emu Oil - - -8;%  -SoapQuick, conventional - - -8;%  -Camellia Oil, Tea Seed - - -7;%  -Palm Stearin - - -7;%  -Soybean, 27.5% hydrogenated - - -7;%  -Buriti Oil - - -7;%  -Pomegranate Seed Oil - - -6;%  -Avocado butter - - -6;%  -Shea Butter - - -6;%  -Lard, Pig Tallow (Manteca) - - -6;%  -Walmart GV Shortening, tallow, palm - - -5;%  -Ucuuba Butter - - -5;%  -Tallow Sheep - - -4;%  -Saw Palmetto Oil - - -4;%  -Saw Palmetto Extract - - -4;%  -Castor Oil - - -4;%  -Marula Oil - - -4;%  -Cod Liver Oil - - -4;%  -Sunflower Oil, high oleic - - -3;%  -Murumuru Butter - - -3;%  -Tallow Beef - - -3;%  -Mango Seed Butter - - -3;%  -Papaya seed oil, Carica papaya - - -3;%  -Palm Kernel Oil - - -3;%  -Macadamia Nut Butter - - -3;%  -Pataua (Patawa) Oil - - -3;%  -Cocoa Butter - - -3;%  -Cohune Oil - - -2;%  -Tallow Goat - - -2;%  -Pracaxi (Pracachy) Seed Oil - hair conditioner - - -2;%  -Salmon Oil - - -2;%  -Ghee, any bovine - - -2;%  -Cupuacu Butter - - -2;%  -Moringa Oil - - -2;%  -Milk Fat, any bovine - - -2;%  -Sal Butter - - -2;%  -Macadamia Nut Oil - - -2;%  -Aloe Butter - - -2;%  -Monoi de Tahiti  Oil - - -2;%  -Coconut Oil, 76 deg - - -2;%  -Coconut Oil, 92 deg - - -1;%  -Acorn Oil - - -1;%  -Kokum Butter - - -1;%  -Kpangnan Butter - - -0;%  -Stearic Acid - - -0;%  -Tucuma Seed Butter - - -0;%  -Coconut Oil, fractionated - - -0;%  -Mink Oil - - -0;%  -Pine Tar, lye calc only no FA - - -0;%  -Oleic Acid - - -0;%  -Neatsfoot Oil - - -0;%  -Beeswax - - -0;%  -Jojoba Oil (a Liquid Wax Ester) - - -0;%  -Myristic Acid - - -0;%  -Soybean, fully hydrogenated (soy wax) - - -0;%  -Palmitic Acid - - -0;%  -Illipe Butter - - -0;%  -Lauric Acid - - -0;%  -Nutmeg Butter - - -0;%  -Palm Kernel Oil Flakes, hydrogenated - - -0;%  -Lanolin liquid Wax - - -0;%  -Japan Wax - - -0;%  -Meadowfoam Oil - - -0;%  -Candelilla Wax - - -0;%  -Babassu Oil - -
+ 
+80	  Evening Primrose Oil 
+75	  Safflower Oil 
+70	  Passion Fruit Seed Oil 
+70	  Sunflower Oil 
+69	  Poppy Seed Oil 
+68	  Grapeseed Oil 
+64	  Milk Thistle Oil 
+60	  Walnut Oil 
+60	  Black Cumin Seed Oil, nigella sativa 
+60	  Watermelon Seed Oil 
+58	  Wheat Germ Oil 
+57	  Hemp Oil 
+55	  Raspberry Seed Oil 
+52	  Cottonseed Oil 
+52	  Crisco, old 
+51	  Corn Oil 
+50	  Soybean Oil 
+50	  Pumpkin Seed Oil virgin 
+47	  Loofa Seed Oil, Luffa cylinderica 
+46	  Rosehip Oil 
+46	  Black Current Seed Oil 
+45	  Cherry Kern1 Oil, p. avium 
+43	  Borage Oil 
+43	  Sesame Oil 
+42	  Kukui nut Oil 
+40	  Crisco, new w/palm 
+40	  Cherry Kern2 Oil, p. cerasus 
+39	  Oat Oil 
+39	  Pecan Oil 
+39	  Coffee Bean Oil, green 
+38	  Coffee Bean Oil, roasted 
+38	  Tamanu Oil, kamani 
+37	  Cranberry Seed Oil 
+36	  Sea Buckthorn Oil, seed 
+36	  Brazil Nut Oil 
+35	  Sacha Inchi, Plukenetia volubilis 
+34	  Rice Bran Oil, refined 
+34	  Jatropha Oil, soapnut seed oil 
+34	  Argan Oil 
+30	  Yangu, cape chestnut 
+28	  Baobab Oil 
+27	  Apricot Kernal Oil 
+26	  Peanut Oil 
+26	  Laurel Fruit Oil 
+25	  Peach Kernel Oil 
+25	  Pistachio Oil 
+23	  Plum Kernel Oil 
+21	  Chicken Fat 
+21	  Canola Oil 
+20	  Horse Oil 
+20	  Rabbit Fat 
+19	  Camelina Seed Oil 
+18	  Almond Oil, sweet 
+17	  Ostrich Oil 
+16	  Perilla Seed Oil 
+16	  Almond Butter 
+15	  Karanja Oil 
+15	  Tallow Deer 
+15	  Mowrah Butter 
+15	  Safflower Oil, high oleic 
+14	  Mustard Oil, kachi ghani 
+13	  Linseed Oil, flax 
+13	  Zapote seed oil, (Aceite de Sapuyul or Mamey) 
+13	  Carrot Seed Oil, cold pressed 
+13	  Flax Oil, linseed 
+13	  Rapeseed Oil, unrefined canola 
+13	  Duck Fat, flesh and skin 
+12	  Neem Seed Oil 
+12	  Avocado Oil 
+12	  Olive Oil 
+12	  Olive Oil  pomace 
+12	  Canola Oil, high oleic 
+11	  Abyssinian Oil 
+11	  Broccoli Seed Oil, Brassica Oleracea 
+11	  Shea Oil, fractionated 
+11	  Palmolein 
+11	  Mafura Butter, Trichilia emetica; 
+10	  Goose Fat 
+10	  Hazelnut Oil 
+10	  SoapQuick, organic 
+10	  Red Palm Butter 
+10	  Sea Buckthorn Oil, seed and berry 
+10	  Palm Oil 
+ 9	  Andiroba Oil,karaba,crabwood 
+ 9	  Tallow Bear 
+ 8	  Mango Seed Oil 
+ 8	  Emu Oil 
+ 8	  SoapQuick, conventional 
+ 8	  Camellia Oil, Tea Seed 
+ 7	  Palm Stearin 
+ 7	  Soybean, 27.5% hydrogenated 
+ 7	  Buriti Oil 
+ 7	  Pomegranate Seed Oil 
+ 6	  Avocado butter 
+ 6	  Shea Butter 
+ 6	  Lard, Pig Tallow (Manteca) 
+ 6	  Walmart GV Shortening, tallow, palm 
+ 5	  Ucuuba Butter 
+ 5	  Tallow Sheep 
+ 4	  Saw Palmetto Oil 
+ 4	  Saw Palmetto Extract 
+ 4	  Castor Oil 
+ 4	  Marula Oil 
+ 4	  Cod Liver Oil 
+ 4	  Sunflower Oil, high oleic 
+ 3	  Murumuru Butter 
+ 3	  Tallow Beef 
+ 3	  Mango Seed Butter 
+ 3	  Papaya seed oil, Carica papaya 
+ 3	  Palm Kernel Oil 
+ 3	  Macadamia Nut Butter 
+ 3	  Pataua (Patawa) Oil 
+ 3	  Cocoa Butter 
+ 3	  Cohune Oil 
+ 2	  Tallow Goat 
+ 2	  Pracaxi (Pracachy) Seed Oil  hair conditioner 
+ 2	  Salmon Oil 
+ 2	  Ghee, any bovine 
+ 2	  Cupuacu Butter 
+ 2	  Moringa Oil 
+ 2	  Milk Fat, any bovine 
+ 2	  Sal Butter 
+ 2	  Macadamia Nut Oil 
+ 2	  Aloe Butter 
+ 2	  Monoi de Tahiti  Oil 
+ 2	  Coconut Oil, 76 deg 
+ 2	  Coconut Oil, 92 deg 
+ 1	  Acorn Oil 
+ 1	  Kokum Butter 
+ 1	  Kpangnan Butter 
+ 0	  Stearic Acid 
+ 0	  Tucuma Seed Butter 
+ 0	  Coconut Oil, fractionated 
+ 0	  Mink Oil 
+ 0	  Pine Tar, lye calc only no FA 
+ 0	  Oleic Acid 
+ 0	  Neatsfoot Oil 
+ 0	  Beeswax 
+ 0	  Jojoba Oil (a Liquid Wax Ester) 
+ 0	  Myristic Acid 
+ 0	  Soybean, fully hydrogenated (soy wax) 
+ 0	  Palmitic Acid 
+ 0	  Illipe Butter 
+ 0	  Lauric Acid 
+ 0	  Nutmeg Butter 
+ 0	  Palm Kernel Oil Flakes, hydrogenated 
+ 0	  Lanolin liquid Wax 
+ 0	  Japan Wax 
+ 0	  Meadowfoam Oil 
+ 0	  Candelilla Wax 
+ 0	  Babassu Oil 
